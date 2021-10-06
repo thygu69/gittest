@@ -1,7 +1,7 @@
 videocall feature release
 bug fix by thiyagaseelan
-<<<<<<< HEAD
+
 current - release newcode branch3
-=======
+
 bug fix2 by thiyagaseelan
->>>>>>> branch2
+

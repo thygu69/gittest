@@ -27,7 +27,7 @@ public class SampleTest1 {
 		//FileUtils //appache //1.0, 2.0
 		FileHandler.copy(src, new File("C:\\Users\\User\\workspace\\gitTest\\screenshot\\google.jpg"));
 		
-		int i=1/0;
+		//int i=1/0;
 		wd.quit();
 	}
 }
